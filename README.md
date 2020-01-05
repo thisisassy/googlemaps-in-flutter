@@ -2,4 +2,4 @@
 
 This is sample code with Flutter and GoogleMaps.
 
-sample-img.png
+![Demo](sample-img.png)
